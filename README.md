@@ -1,117 +1,73 @@
-<h1 align="center">🌌 UMIDJON ABDULLAYEV 🌌</h1>
+<h1 align="center">Umidjon Abdullayev</h1>
+<p align="center">Backend Developer • Systems Thinking • Mathematics Inspired</p>
+
+---
+
+## Function of Growth
+
+genui{"math_block_widget_always_prefetch_v2": {"content": "f(x) = x^2"}}
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Future+Software+Engineer;⚡+Backend+Developer;🧠+Problem+Solver;🔥+Building+Cool+Things;💻+Welcome+To+My+Universe" />
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[-5,-4,-3,-2,-1,0,1,2,3,4,5],datasets:[{label:'f(x)=x^2',data:[25,16,9,4,1,0,1,4,9,16,25]}]}}" />
 </p>
 
 ---
 
+## Exponential Progress
+
+genui{"math_block_widget_always_prefetch_v2": {"content": "f(x) = e^x"}}
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,1,2,3,4],datasets:[{label:'exp growth',data:[1,2.7,7.3,20,54]}]}}" />
 </p>
 
 ---
 
-# 🧠 ABOUT ME
+## Developer Loop
 
-```diff
-+ Name: Umidjon Abdullayev
-+ Passion: Coding, Technology, Innovation
-+ Goal: Become Elite Software Engineer
-+ Mindset: Never Stop Learning
+```
+def evolve():
+    while True:
+        learn()
+        build()
+        fail()
+        optimize()
 ```
 
 ---
 
-# ⚡ TECH STACK
+## Activity Graph (Dynamic)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,postgres,git,github,linux,html,css,js" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal" />
 </p>
 
 ---
 
-# 🚀 LIVE CODING ENERGY
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🧩 ALGORITHM CORE
+## Visual Signal (Wave)
 
-```
-class Developer:
-    def __init__(self):
-        self.skill = 0
-
-    def grind(self):
-        while True:
-            self.learn()
-            self.build()
-            self.fail()
-            self.skill += 1
-            if self.skill > 999:
-                return "🔥 LEGEND MODE UNLOCKED 🔥"
-```
-
----
-
-# 🐍 CONTRIBUTION SNAKE
+genui{"math_block_widget_always_prefetch_v2": {"content": "y = \sin(x)"}}
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,1,2,3,4,5,6],datasets:[{label:'wave',data:[0,0.84,0.90,0.14,-0.75,-0.95,-0.27]}]}}" />
 </p>
 
 ---
 
-# 🌌 DIGITAL UNIVERSE
+## Contact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
-</p>
-
----
-
-# 🎯 CURRENT MISSION
-
-* ⚡ Master Backend (Django / FastAPI)
-* 🧠 Data Structures & Algorithms
-* 🚀 Build Real Projects
-* 💰 Start Freelancing
-
----
-
-# 📡 CONNECT WITH ME
-
-<p align="center">
-
-📱 Phone: +998949780185
-
-</p>
-
----
-
-# 🧬 FUTURE LOADING...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-</p>
-
----
-
-# 💬 QUOTE
-
-> "Discipline beats talent. Code beats excuses."
+* Phone: +998949780185
 
 ---
 
 <p align="center">
-🔥 CREATED BY UMIDJON 🔥  
-⚡ POWERED BY PASSION ⚡  
+Mathematics. Systems. Discipline.
 </p>
-
-
